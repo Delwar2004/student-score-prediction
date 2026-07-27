@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-An end-to-end Machine Learning regression project developed during my **ML Engineering Internship at Elevvo**. The objective is to predict students' examination scores using various regression techniques while following a complete machine learning workflow—from exploratory data analysis (EDA) to model evaluation and proper data leakage prevention.
+An end-to-end Machine Learning regression project developed. The objective is to predict students' examination scores using various regression techniques while following a complete machine learning workflow—from exploratory data analysis (EDA) to model evaluation and proper data leakage prevention.
 
 ---
 
@@ -225,7 +225,7 @@ This project demonstrates several important machine learning concepts:
 # 📁 Repository Structure
 
 ```
-elevvo-task01-student-score-prediction/
+student-score-prediction/
 
 │
 
@@ -281,8 +281,6 @@ Through this project, I gained practical experience in:
 # 👨‍💻 Author
 
 **MD DELWAR HUSEN**
-
-Machine Learning Engineering Intern @ Elevvo
 
 B.Sc. in Information and Communication Engineering (ICE)
 
